@@ -1,0 +1,118 @@
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{float}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{wrapfig}
+\usepackage{vmargin}
+\usepackage{layout}
+\usepackage{fancyhdr}
+\usepackage{vmargin}
+\usepackage{setspace}
+\usepackage{parskip}
+\usepackage{caption} 
+\usepackage[style=iso-numeric]{biblatex} %References STYLE
+\usepackage[final]{microtype}
+\addbibresource{references.bib}
+
+\usepackage{epigraph}
+\usepackage{epigraph}
+\setlength{\epigraphwidth}{0.5\textwidth}
+\renewcommand{\textflush}{flushright} \renewcommand{\sourceflush}{flushright}
+\let\originalepigraph\epigraph 
+\renewcommand\epigraph[2]{\originalepigraph{\textit{#1}}{\textsc{#2}}}
+\usepackage{lastpage}
+
+
+\usepackage{titlesec}
+\usepackage[cm]{sfmath} %sansSerif a les equacions
+\everymath={\sf} %sansSerif en tot math
+\usepackage{tgheros}
+\usepackage{enumitem}
+\usepackage[runall]{pythontex}
+\setpythontexlistingenv{pylisting}
+\usepackage{lscape}
+\usepackage{cancel}
+\usepackage{pdflscape}%pags en horitzontal (PDFLatex)
+\usepackage{tikz}
+\usepackage{smartdiagram}
+\usesmartdiagramlibrary{additions}
+\usepackage{url}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    filecolor=black,      
+    urlcolor=blue,
+    citecolor=blue,}
+\usepackage{makeidx}
+\usepackage{caption}
+\usepackage{tabularx}
+\usepackage{subcaption}
+\usepackage{lscape}
+\usepackage{chngcntr}
+\usepackage{csquotes}
+\usepackage{graphicx}
+\usepackage{mathtools}
+\usepackage{multicol,caption}
+\usepackage{multirow}
+\usepackage{lipsum}
+\usepackage{titlesec}
+%\usepackage{tocloft}
+\usepackage{titlesec}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{afterpage}
+\usepackage{ragged2e}
+\usepackage{booktabs}
+
+\usepackage{tcolorbox}
+\tcbuselibrary{minted,breakable,xparse,skins}
+
+\definecolor{bg}{gray}{0.95}
+\DeclareTCBListing{mintedbox}{O{}m!O{}}{%
+  breakable=true,
+  listing engine=minted,
+  listing only,
+  minted language=#2,
+  minted style=default,
+  minted options={%
+    linenos,
+    gobble=0,
+    breaklines=true,
+    breakafter=,,
+    fontsize=\small,
+    numbersep=8pt,
+    #1},
+  boxsep=0pt,
+  left skip=0pt,
+  right skip=0pt,
+  left=25pt,
+  right=0pt,
+  top=3pt,
+  bottom=3pt,
+  arc=5pt,
+  leftrule=0pt,
+  rightrule=0pt,
+  bottomrule=2pt,
+  toprule=2pt,
+  colback=bg,
+  colframe=orange!70,
+  enhanced,
+  overlay={%
+    \begin{tcbclipinterior}
+    \fill[orange!20!white] (frame.south west) rectangle ([xshift=20pt]frame.north west);
+    \end{tcbclipinterior}},
+  #3}
+
+\renewcommand{\thefootnote}{\roman{footnote}}
+\usepackage[acronym,nomain]{glossaries}
+\makeglossaries
+
+%FONTS i SECCIONS
+\usepackage[sfdefault,light]{inter}
+\usepackage[T1]{fontenc}
+
+\geometry{
+    right = 2.35cm,
+}
