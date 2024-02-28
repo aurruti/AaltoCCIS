@@ -1,0 +1,2 @@
+This are completed homeworks; coded from skeleton code provided by professor Jussi Rintanen (Artificial Intelligence D - CSE4800 2024 at Aalto Univeristy).
+All rights reserved.

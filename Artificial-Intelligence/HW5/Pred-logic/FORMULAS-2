@@ -1,0 +1,35 @@
+
+# Your task is to give 5 formulas so that each formula is true in STRUCT-2-T
+# and false in STRUCT-2-F.
+# Each formula HAS TO HAVE exactly one occurrence of the predicate symbols listed below.
+
+#
+# Formula 1
+#
+# Requirement: use predicates likes, happy
+#
+
+#
+# Formula 2
+#
+# Requirement: use predicates happy, calm
+#
+
+#
+# Formula 3
+#
+# Requirement: use predicates calm, owesmoneyto 
+#
+
+#
+# Formula 4
+#
+# Requirement: use predicates hasmuchmoremoney, happy
+#
+
+#
+# Formula 5
+#
+# Requirement: use predicates hasmuchmoremoney, likes
+#
+
