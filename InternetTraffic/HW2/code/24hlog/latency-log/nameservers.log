@@ -1,0 +1,536 @@
+Sun Oct  1 12:59:01 EEST 2023
+(all to www.taaf.fr/)
+e.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 33.296/34.010/36.054/1.052 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15582
+ flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.185816 0.101080 0.007113
+g.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 32.501/32.731/33.067/0.209 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 46940
+ flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.158561 0.096054 0.013725
+f.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 2.503/2.734/2.875/0.128 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 60469
+ flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.152546 0.091008 0.005340
+Sun Oct  1 13:59:01 EEST 2023
+(all to www.taaf.fr/)
+e.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 33.245/33.466/33.950/0.249 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 44344
+ flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 0.151087 0.082987 0.004795
+g.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 32.166/33.221/34.435/0.739 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26372
+ flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 0.172418 0.108303 0.004754
+f.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 2.839/4.039/5.083/0.754 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 172
+ flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 11.292906 0.113897 0.006419
+Sun Oct  1 14:59:01 EEST 2023
+(all to www.taaf.fr/)
+e.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 32.749/33.102/33.567/0.285 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2094
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 0.158480 0.087170 0.004063
+g.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 32.056/32.473/32.787/0.278 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 6428
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 0.169239 0.119479 0.034032
+f.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4008ms
+rtt min/avg/max/mdev = 1.959/2.956/4.137/0.809 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 54146
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.134703 0.085246 0.007528
+Sun Oct  1 15:59:01 EEST 2023
+(all to www.taaf.fr/)
+e.ext.nic.fr
+CURL: 0.000000 0.000000 0.000000
+g.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 10444ms
+rtt min/avg/max/mdev = 32.207/33.211/35.501/1.174 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 16184
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 3.328011 0.093042 0.006698
+f.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 3.071/6.979/9.929/2.396 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1983
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 0.149808 0.090486 0.006511
+Sun Oct  1 16:59:01 EEST 2023
+(all to www.taaf.fr/)
+e.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 32.739/33.546/34.560/0.589 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 52987
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.177676 0.090687 0.005553
+g.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 32.495/34.789/38.496/2.548 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 8761
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.142891 0.082495 0.004559
+f.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 2.221/2.624/3.712/0.556 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 4730
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.141099 0.081815 0.004259
+Sun Oct  1 17:59:01 EEST 2023
+(all to www.taaf.fr/)
+e.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 32.705/34.551/39.808/2.653 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 42447
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 0.175614 0.101969 0.017393
+g.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4003ms
+rtt min/avg/max/mdev = 32.304/32.872/33.445/0.425 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26793
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 0.167999 0.097095 0.005104
+f.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 2.740/5.659/7.999/1.983 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 62404
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.171392 0.109837 0.011285
+Sun Oct  1 18:59:01 EEST 2023
+(all to www.taaf.fr/)
+e.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 33.012/36.400/47.582/5.617 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 64242
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 0.179190 0.107469 0.019750
+g.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4041ms
+rtt min/avg/max/mdev = 32.333/32.762/33.175/0.286 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 3842
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 0.156434 0.094901 0.006712
+f.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 2.007/5.671/8.950/2.924 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 42196
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.168500 0.107859 0.010700
+Sun Oct  1 19:59:01 EEST 2023
+(all to www.taaf.fr/)
+e.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 33.172/33.695/34.434/0.422 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 50738
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 0.177264 0.099692 0.007339
+g.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4002ms
+rtt min/avg/max/mdev = 34.644/35.960/38.173/1.352 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 30443
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 0.121963 0.085538 0.005278
+f.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 2.841/4.387/5.983/1.183 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 431
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.174357 0.111917 0.012851
+Sun Oct  1 20:59:01 EEST 2023
+(all to www.taaf.fr/)
+e.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 33.308/33.913/34.968/0.645 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 39522
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 0.165501 0.093035 0.005198
+g.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 19774ms
+rtt min/avg/max/mdev = 32.231/35.144/45.726/5.293 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 3022
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 16.229212 1.163637 1.071241
+f.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4003ms
+rtt min/avg/max/mdev = 2.215/4.043/9.329/2.660 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 34692
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.154530 0.092843 0.005915
+Sun Oct  1 21:59:01 EEST 2023
+(all to www.taaf.fr/)
+e.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 32.925/33.483/34.639/0.645 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 50321
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 0.166837 0.091768 0.008192
+g.ext.nic.fr
+5 packets transmitted, 4 received, 20% packet loss, time 4060ms
+rtt min/avg/max/mdev = 32.251/32.430/32.600/0.126 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 24597
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 0.141708 0.087991 0.004762
+f.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 2.477/5.980/8.687/2.603 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 9023
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.156334 0.098443 0.009577
+Sun Oct  1 22:59:01 EEST 2023
+(all to www.taaf.fr/)
+e.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 33.215/34.812/39.475/2.372 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 38615
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.191104 0.098636 0.014878
+g.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 32.294/35.015/40.533/3.057 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 60959
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.136224 0.080264 0.004569
+f.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 2.483/3.179/3.837/0.522 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 12068
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 0.140745 0.099789 0.007355
+Sun Oct  1 23:59:01 EEST 2023
+(all to www.taaf.fr/)
+e.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 32.783/33.126/33.579/0.294 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19053
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 0.166682 0.091396 0.007105
+g.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 31.964/34.743/42.573/3.994 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 6882
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 0.375129 0.311365 0.013904
+f.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 2.763/5.897/8.639/2.279 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 39593
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.157309 0.099429 0.008681
+Mon Oct  2 00:59:01 EEST 2023
+(all to www.taaf.fr/)
+e.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 33.581/36.537/39.454/2.069 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26287
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.171423 0.088737 0.005308
+g.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 32.790/34.859/38.566/2.454 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 56193
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.142976 0.088090 0.005771
+f.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 2.579/3.124/3.857/0.451 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 32962
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.143907 0.091377 0.006685
+Mon Oct  2 01:59:01 EEST 2023
+(all to www.taaf.fr/)
+e.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 33.132/36.152/46.526/5.203 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 65094
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 0.161599 0.087957 0.004702
+g.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 32.166/32.928/33.660/0.500 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 59260
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 0.161035 0.107759 0.024653
+f.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 2.303/4.763/8.164/1.924 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 50679
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.150268 0.090860 0.006748
+Mon Oct  2 02:59:01 EEST 2023
+(all to www.taaf.fr/)
+e.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 31.564/32.029/32.546/0.392 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 3879
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 0.162265 0.090258 0.005082
+g.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 32.314/32.913/33.516/0.441 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 50382
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 0.132648 0.088298 0.005928
+f.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 2.255/5.069/9.611/2.975 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 8068
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.161070 0.097459 0.007875
+Mon Oct  2 03:59:01 EEST 2023
+(all to www.taaf.fr/)
+e.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4103ms
+rtt min/avg/max/mdev = 31.795/32.297/32.674/0.316 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 29428
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.185688 0.090687 0.004950
+g.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 32.321/34.806/37.977/2.534 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 33258
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 5.402321 0.081808 0.004389
+f.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 2.284/2.560/3.007/0.255 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2829
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 0.151488 0.091771 0.006152
+Mon Oct  2 04:59:01 EEST 2023
+(all to www.taaf.fr/)
+e.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 31.538/32.244/33.275/0.567 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 57585
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.184697 0.088629 0.005952
+g.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 32.180/34.996/39.953/2.786 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 11754
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.126877 0.078370 0.004658
+f.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 2.166/3.733/7.566/2.043 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 18391
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.155752 0.091102 0.006297
+Mon Oct  2 05:59:01 EEST 2023
+(all to www.taaf.fr/)
+e.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 31.294/32.919/36.715/1.942 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 51279
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.183913 0.091376 0.005145
+g.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 32.360/34.247/37.467/2.245 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 38227
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.154263 0.086935 0.005956
+f.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 2.801/3.731/6.475/1.391 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 53597
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.152343 0.092918 0.008539
+Mon Oct  2 06:59:01 EEST 2023
+(all to www.taaf.fr/)
+e.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 31.522/32.462/33.560/0.855 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 4450
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.176609 0.087597 0.005799
+g.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 32.088/34.195/35.937/1.552 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 18998
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.164999 0.102389 0.006561
+f.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 2.502/2.997/3.626/0.380 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26324
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.149834 0.098450 0.006719
+Mon Oct  2 07:59:01 EEST 2023
+(all to www.taaf.fr/)
+e.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 31.495/32.323/34.609/1.173 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 59633
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.179005 0.090049 0.005353
+g.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 32.510/34.376/37.390/2.187 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 57072
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.150025 0.087817 0.005849
+f.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 2.500/5.486/15.180/4.865 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 21145
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.152455 0.091119 0.006376
+Mon Oct  2 08:59:01 EEST 2023
+(all to www.taaf.fr/)
+e.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 9853ms
+rtt min/avg/max/mdev = 31.359/32.165/33.239/0.656 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 21255
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 0.160807 0.084938 0.005160
+g.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4076ms
+rtt min/avg/max/mdev = 32.646/36.489/39.126/2.738 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 33692
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 0.138838 0.094529 0.010814
+f.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 5.815/6.947/8.670/0.953 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1091
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.161341 0.097552 0.010446
+Mon Oct  2 09:59:01 EEST 2023
+(all to www.taaf.fr/)
+e.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 31.359/32.019/33.086/0.587 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 44200
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 0.166370 0.094022 0.004626
+g.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 10283ms
+rtt min/avg/max/mdev = 32.643/34.869/37.643/2.267 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 47994
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.141679 0.087681 0.004523
+f.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 2.495/3.033/3.718/0.481 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 3000
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.160777 0.100005 0.005826
+Mon Oct  2 10:59:01 EEST 2023
+(all to www.taaf.fr/)
+e.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 31.315/32.668/33.919/0.956 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 12919
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 0.159029 0.084737 0.004699
+g.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4002ms
+rtt min/avg/max/mdev = 32.347/33.269/34.281/0.706 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 34628
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 0.165667 0.116379 0.034072
+f.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 5.961/8.906/13.810/2.634 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 48637
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.155578 0.096905 0.009557
+Mon Oct  2 11:59:01 EEST 2023
+(all to www.taaf.fr/)
+e.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 31.604/32.308/33.599/0.736 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 38234
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 0.170195 0.095650 0.006256
+g.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4001ms
+rtt min/avg/max/mdev = 33.473/34.529/35.957/0.891 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 40707
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 0.132782 0.087560 0.004493
+f.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 4.493/7.699/11.651/2.319 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 58216
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.162778 0.102513 0.010430
+Mon Oct  2 12:59:01 EEST 2023
+(all to www.taaf.fr/)
+e.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 31.546/32.076/33.219/0.589 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45881
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 0.238088 0.168781 0.078633
+g.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4285ms
+rtt min/avg/max/mdev = 32.208/32.605/33.109/0.299 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 29924
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 0.140640 0.088502 0.005483
+f.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 2.833/4.396/5.824/1.221 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 23066
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.167538 0.101437 0.009512
+Mon Oct  2 13:59:01 EEST 2023
+(all to www.taaf.fr/)
+e.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 32.272/35.531/38.772/2.302 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 20595
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.375347 0.114141 0.013810
+g.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 32.313/32.741/33.660/0.498 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 29096
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.145637 0.077215 0.004094
+f.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 2.454/2.895/3.673/0.409 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 56746
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.143426 0.079045 0.004423
+Mon Oct  2 14:59:01 EEST 2023
+(all to www.taaf.fr/)
+e.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 31.810/33.158/35.732/1.507 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 58436
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.187591 0.099501 0.016740
+g.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 32.277/35.341/40.762/3.149 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 7562
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.132162 0.079596 0.005161
+f.ext.nic.fr
+5 packets transmitted, 5 received, 0% packet loss, time 4008ms
+rtt min/avg/max/mdev = 2.555/3.338/5.051/0.898 ms
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 55373
+ flags: qr rd QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 1
+CURL: 15.124099 0.077313 0.004862
