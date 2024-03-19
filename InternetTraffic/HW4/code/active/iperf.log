@@ -1,0 +1,468 @@
+Wed Oct 18 17:53:46 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4008ms
+rtt min/avg/max/mdev = 3.171/3.691/4.219/0.385 ms
+0.001968, 0.004937, 0.008937, 0.008986
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5275ms
+rtt min/avg/max/mdev = 272.701/273.335/274.046/0.468 ms
+0.291658, 0.566008, 0.838793, 0.838858
+Wed Oct 18 17:57:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 2.566/2.995/3.520/0.327 ms
+0.001431, 0.004649, 0.008666, 0.008714
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5132ms
+rtt min/avg/max/mdev = 272.658/273.031/273.444/0.310 ms
+0.284361, 0.557856, 0.830666, 0.830726
+Wed Oct 18 17:58:02 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 2.739/2.911/3.212/0.161 ms
+0.003115, 0.006856, 0.010386, 0.010457
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 6235ms
+rtt min/avg/max/mdev = 272.757/273.322/274.619/0.705 ms
+0.288511, 0.565565, 0.840525, 0.840581
+Wed Oct 18 17:59:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 3.065/4.661/6.969/1.511 ms
+0.001556, 0.005190, 0.009501, 0.009570
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5182ms
+rtt min/avg/max/mdev = 272.670/273.413/273.966/0.435 ms
+0.308923, 0.576772, 0.842947, 0.842996
+Wed Oct 18 18:00:01 EEST 2023
+ok1
+5 packets transmitted, 4 received, 20% packet loss, time 4022ms
+rtt min/avg/max/mdev = 2.886/3.237/3.894/0.391 ms
+0.001794, 0.004777, 0.007769, 0.007812
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5185ms
+rtt min/avg/max/mdev = 272.983/274.054/275.922/1.030 ms
+0.318236, 0.590679, 0.862387, 0.862449
+Wed Oct 18 18:01:02 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 2.775/3.546/4.535/0.564 ms
+0.002578, 0.008171, 0.012177, 0.012251
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5191ms
+rtt min/avg/max/mdev = 272.675/273.266/274.637/0.720 ms
+0.288631, 0.571101, 0.843231, 0.843312
+Wed Oct 18 18:02:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 2.718/3.089/3.748/0.354 ms
+0.015806, 0.019338, 0.022737, 0.022810
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5162ms
+rtt min/avg/max/mdev = 272.940/273.954/275.549/0.925 ms
+0.279205, 0.552115, 0.830109, 0.830192
+Wed Oct 18 18:03:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 2.896/3.190/3.990/0.413 ms
+0.002136, 0.005248, 0.008372, 0.008442
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5182ms
+rtt min/avg/max/mdev = 272.270/273.036/274.359/0.731 ms
+0.289017, 0.555927, 0.823179, 0.823239
+Wed Oct 18 18:04:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 2.334/2.784/3.123/0.260 ms
+0.001789, 0.004860, 0.008502, 0.008557
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5156ms
+rtt min/avg/max/mdev = 272.687/273.404/274.498/0.702 ms
+0.292493, 0.570097, 0.845085, 0.845207
+Wed Oct 18 18:05:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 2.794/3.181/3.724/0.394 ms
+0.001477, 0.004656, 0.008080, 0.008128
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5165ms
+rtt min/avg/max/mdev = 272.729/272.989/273.621/0.320 ms
+0.291887, 0.560172, 0.829790, 0.829908
+Wed Oct 18 18:06:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4008ms
+rtt min/avg/max/mdev = 2.948/4.485/9.762/2.641 ms
+0.003050, 0.006459, 0.010171, 0.010248
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5168ms
+rtt min/avg/max/mdev = 272.863/273.154/273.524/0.215 ms
+0.282017, 0.550165, 0.817828, 0.817986
+Wed Oct 18 18:07:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 2.639/3.228/4.087/0.536 ms
+0.001871, 0.004774, 0.009585, 0.009635
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5174ms
+rtt min/avg/max/mdev = 272.686/273.321/274.119/0.542 ms
+0.289355, 0.561766, 0.833554, 0.833612
+Wed Oct 18 18:08:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4008ms
+rtt min/avg/max/mdev = 2.783/3.519/4.222/0.543 ms
+0.002220, 0.005286, 0.009895, 0.009961
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5181ms
+rtt min/avg/max/mdev = 273.136/273.357/273.555/0.165 ms
+0.276847, 0.545991, 0.814688, 0.814776
+Wed Oct 18 18:09:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 2.832/4.726/6.753/1.386 ms
+0.001610, 0.004910, 0.007887, 0.007942
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5160ms
+rtt min/avg/max/mdev = 272.689/272.987/273.570/0.303 ms
+0.280220, 0.552625, 0.825585, 0.825650
+Wed Oct 18 18:10:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 3.035/3.839/6.036/1.143 ms
+0.003142, 0.006528, 0.010646, 0.010716
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5158ms
+rtt min/avg/max/mdev = 272.756/273.321/274.388/0.650 ms
+0.289925, 0.559343, 0.828385, 0.828497
+Wed Oct 18 18:11:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 2.800/4.255/8.770/2.264 ms
+0.003044, 0.006473, 0.010095, 0.010174
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5231ms
+rtt min/avg/max/mdev = 272.857/273.754/276.705/1.484 ms
+0.264281, 0.537833, 0.810969, 0.811062
+Wed Oct 18 18:12:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 2.695/3.587/4.447/0.692 ms
+0.043510, 0.048028, 0.052134, 0.052203
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5175ms
+rtt min/avg/max/mdev = 272.831/274.107/277.063/1.559 ms
+0.285470, 0.553627, 0.820383, 0.820446
+Wed Oct 18 18:13:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 3.106/3.428/4.126/0.359 ms
+0.003206, 0.007675, 0.010815, 0.010890
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5187ms
+rtt min/avg/max/mdev = 273.114/273.394/274.270/0.441 ms
+0.308988, 0.582670, 0.855936, 0.855997
+Wed Oct 18 18:14:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 2.939/4.607/10.155/2.785 ms
+0.002228, 0.005299, 0.008758, 0.008820
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5184ms
+rtt min/avg/max/mdev = 272.674/273.532/275.345/1.025 ms
+0.310393, 0.582423, 0.855290, 0.855479
+Wed Oct 18 18:15:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 3.089/3.395/4.182/0.404 ms
+0.002554, 0.006130, 0.009557, 0.009628
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5188ms
+rtt min/avg/max/mdev = 272.742/273.207/273.619/0.297 ms
+0.314118, 0.581432, 0.848774, 0.848893
+Wed Oct 18 18:16:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 2.931/3.107/3.296/0.157 ms
+0.002437, 0.005828, 0.009940, 0.010007
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5188ms
+rtt min/avg/max/mdev = 272.968/273.149/273.360/0.149 ms
+0.311563, 0.585492, 0.860412, 0.860516
+Wed Oct 18 18:17:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 2.933/3.256/3.501/0.196 ms
+0.002756, 0.005960, 0.010519, 0.012158
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5203ms
+rtt min/avg/max/mdev = 272.997/273.679/274.919/0.696 ms
+0.309485, 0.577673, 0.846760, 0.846821
+Wed Oct 18 18:18:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 2.943/3.127/3.515/0.199 ms
+0.001646, 0.005282, 0.008474, 0.008538
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5201ms
+rtt min/avg/max/mdev = 272.715/274.734/277.341/1.630 ms
+0.298491, 0.571956, 0.845324, 0.845444
+Wed Oct 18 18:19:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 2.954/3.210/3.660/0.297 ms
+0.002346, 0.005330, 0.009068, 0.009143
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5200ms
+rtt min/avg/max/mdev = 272.781/273.454/274.208/0.487 ms
+0.303059, 0.571615, 0.839386, 0.839451
+Wed Oct 18 18:20:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 2.945/3.504/4.717/0.621 ms
+0.002569, 0.005778, 0.008917, 0.009022
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5187ms
+rtt min/avg/max/mdev = 272.828/273.409/274.749/0.704 ms
+0.312123, 0.579406, 0.846241, 0.846491
+Wed Oct 18 18:21:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 2.606/3.141/3.454/0.312 ms
+0.001664, 0.004781, 0.009179, 0.009238
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5172ms
+rtt min/avg/max/mdev = 273.167/273.847/274.499/0.474 ms
+0.270593, 0.543248, 0.815464, 0.815548
+Wed Oct 18 18:22:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 3.017/3.966/5.982/1.083 ms
+0.011654, 0.014800, 0.017651, 0.017699
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5162ms
+rtt min/avg/max/mdev = 272.722/274.077/276.603/1.484 ms
+0.276378, 0.544398, 0.811407, 0.811510
+Wed Oct 18 18:23:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 2.860/3.809/5.985/1.133 ms
+0.001706, 0.005046, 0.007711, 0.007788
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5158ms
+rtt min/avg/max/mdev = 272.686/273.318/275.093/0.913 ms
+0.287344, 0.554577, 0.821000, 0.821067
+Wed Oct 18 18:24:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4008ms
+rtt min/avg/max/mdev = 3.027/3.747/4.600/0.507 ms
+0.002954, 0.006286, 0.010708, 0.010762
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5164ms
+rtt min/avg/max/mdev = 272.633/273.923/277.225/1.716 ms
+0.287716, 0.561983, 0.834493, 0.834588
+Wed Oct 18 18:25:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 3.013/3.395/3.605/0.202 ms
+0.002627, 0.005525, 0.009518, 0.009586
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5161ms
+rtt min/avg/max/mdev = 272.887/273.131/273.984/0.427 ms
+0.278561, 0.546840, 0.814058, 0.814162
+Wed Oct 18 18:26:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 2.791/3.188/3.669/0.340 ms
+0.002660, 0.005930, 0.013725, 0.013806
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5186ms
+rtt min/avg/max/mdev = 272.890/273.252/274.051/0.416 ms
+0.310132, 0.586555, 0.854610, 0.854721
+Wed Oct 18 18:27:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 2.786/3.637/4.478/0.616 ms
+0.002167, 0.007987, 0.011315, 0.011384
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5196ms
+rtt min/avg/max/mdev = 272.940/273.229/273.724/0.289 ms
+0.304893, 0.573354, 0.840706, 0.840763
+Wed Oct 18 18:28:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 2.871/3.401/4.082/0.423 ms
+0.003805, 0.006933, 0.010501, 0.010566
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 6235ms
+rtt min/avg/max/mdev = 272.789/273.656/275.350/0.949 ms
+0.266250, 0.539529, 0.812991, 0.813127
+Wed Oct 18 18:29:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 2.938/3.555/4.084/0.413 ms
+0.001462, 0.004850, 0.008198, 0.008250
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5192ms
+rtt min/avg/max/mdev = 272.603/273.074/273.780/0.419 ms
+0.268478, 0.535441, 0.802862, 0.803058
+Wed Oct 18 18:30:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 3.042/5.018/8.340/2.008 ms
+0.001861, 0.004911, 0.008277, 0.008344
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 6235ms
+rtt min/avg/max/mdev = 272.884/273.629/274.836/0.652 ms
+0.270355, 0.537856, 0.805386, 0.805511
+Wed Oct 18 18:31:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 3.150/3.521/4.316/0.408 ms
+0.002419, 0.005269, 0.009305, 0.009364
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5171ms
+rtt min/avg/max/mdev = 272.618/272.810/272.969/0.134 ms
+0.276002, 0.549542, 0.822692, 0.822786
+Wed Oct 18 18:32:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 2.728/3.795/5.716/1.057 ms
+0.001441, 0.004104, 0.008278, 0.008327
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5171ms
+rtt min/avg/max/mdev = 272.778/273.289/274.547/0.658 ms
+0.284842, 0.563085, 0.835462, 0.835521
+Wed Oct 18 18:33:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 2.900/3.313/3.732/0.265 ms
+0.003137, 0.006855, 0.011916, 0.011992
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5178ms
+rtt min/avg/max/mdev = 272.572/274.034/279.131/2.551 ms
+0.288030, 0.555038, 0.822339, 0.822430
+Wed Oct 18 18:34:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 2.525/3.097/3.649/0.358 ms
+0.002560, 0.005686, 0.008427, 0.008473
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5160ms
+rtt min/avg/max/mdev = 272.730/273.472/275.442/1.017 ms
+0.330753, 0.598000, 0.864416, 0.864481
+Wed Oct 18 18:35:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 2.927/3.194/3.778/0.305 ms
+0.001875, 0.004715, 0.008098, 0.008159
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5169ms
+rtt min/avg/max/mdev = 273.681/275.918/282.817/3.502 ms
+0.289895, 0.559387, 0.828175, 0.828313
+Wed Oct 18 18:36:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 3.355/3.497/3.780/0.157 ms
+0.002263, 0.005964, 0.009737, 0.009800
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5156ms
+rtt min/avg/max/mdev = 272.713/273.468/274.654/0.701 ms
+0.279375, 0.547836, 0.814482, 0.814555
+Wed Oct 18 18:37:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 3.106/3.558/4.262/0.388 ms
+0.002416, 0.006484, 0.011324, 0.011410
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5174ms
+rtt min/avg/max/mdev = 272.620/273.129/274.287/0.592 ms
+0.273454, 0.545897, 0.819078, 0.819140
+Wed Oct 18 18:38:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 2.226/2.872/3.896/0.670 ms
+0.002157, 0.006128, 0.008906, 0.008974
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5169ms
+rtt min/avg/max/mdev = 272.591/273.221/274.730/0.768 ms
+0.281069, 0.553871, 0.825937, 0.825995
+Wed Oct 18 18:39:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 2.984/3.211/3.556/0.224 ms
+0.002807, 0.006046, 0.009716, 0.009781
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5164ms
+rtt min/avg/max/mdev = 272.922/273.550/275.025/0.798 ms
+0.288112, 0.561573, 0.833799, 0.833853
+Wed Oct 18 18:40:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 2.735/3.530/4.706/0.708 ms
+0.001512, 0.004761, 0.007973, 0.008012
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5166ms
+rtt min/avg/max/mdev = 272.775/275.222/277.907/2.076 ms
+0.296985, 0.569785, 0.841363, 0.841443
+Wed Oct 18 18:41:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 3.380/4.488/6.974/1.279 ms
+0.001963, 0.005279, 0.008799, 0.008859
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5224ms
+rtt min/avg/max/mdev = 272.781/273.489/274.575/0.642 ms
+0.273161, 0.541799, 0.817564, 0.817650
+Wed Oct 18 18:42:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 2.554/4.673/9.840/2.702 ms
+0.001563, 0.004296, 0.008038, 0.008093
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5176ms
+rtt min/avg/max/mdev = 272.808/273.471/274.039/0.494 ms
+0.284950, 0.558875, 0.831294, 0.831349
+Wed Oct 18 18:43:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 2.797/3.637/5.681/1.099 ms
+0.012332, 0.016836, 0.021956, 0.022024
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5179ms
+rtt min/avg/max/mdev = 272.712/273.502/274.725/0.704 ms
+0.288294, 0.555920, 0.824411, 0.824514
+Wed Oct 18 18:44:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 3.003/3.445/5.061/0.808 ms
+0.003139, 0.006195, 0.010028, 0.010094
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 8041ms
+rtt min/avg/max/mdev = 272.717/273.916/277.704/1.900 ms
+0.441469, 0.711200, 0.980435, 0.980489
+Wed Oct 18 18:45:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 2.742/4.039/5.075/0.863 ms
+0.002803, 0.006367, 0.010324, 0.010442
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 6201ms
+rtt min/avg/max/mdev = 272.723/273.101/274.076/0.493 ms
+0.305123, 0.577878, 0.850094, 0.850199
+Wed Oct 18 18:46:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 3.313/4.592/6.233/1.004 ms
+0.002389, 0.005385, 0.008788, 0.008847
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5212ms
+rtt min/avg/max/mdev = 272.951/274.287/276.661/1.304 ms
+0.313630, 0.581605, 0.849370, 0.849521
+Wed Oct 18 18:47:01 EEST 2023
+ok1
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 2.219/3.317/5.417/1.094 ms
+0.001548, 0.004805, 0.008120, 0.008168
+sgp1
+5 packets transmitted, 5 received, 0% packet loss, time 5195ms
+rtt min/avg/max/mdev = 272.634/273.345/274.010/0.517 ms
+0.303954, 0.577710, 0.850170, 0.850298
