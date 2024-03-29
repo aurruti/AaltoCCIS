@@ -1,0 +1,287 @@
+NUTS2_ID,EU_Payments,Region
+AT11,527986388.0,Burgenland
+AT12,1993360363.0,Niederösterreich
+AT13,23286113.0,Wien
+AT21,744184714.0,Kärnten
+AT22,1695576276.0,Steiermark
+AT31,1752015877.0,Oberösterreich
+AT32,564899093.0,Salzburg
+AT33,801565348.0,Tirol
+AT34,329376801.0,Vorarlberg
+BE10,1967488.0,Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest
+BE21,169875384.0,Prov. Antwerpen
+BE22,97289436.0,Prov. Limburg
+BE23,165257209.0,Prov. Oost-Vlaanderen
+BE24,104535498.0,Prov. Vlaams-Brabant
+BE25,176236589.0,Prov. West-Vlaanderen
+BE31,43752467.0,Prov. Brabant Wallon
+BE32,210175451.0,Prov. Hainaut
+BE33,98830663.0,Prov. Liège
+BE34,50304938.0,Prov. Luxembourg
+BE35,55859316.0,Prov. Namur
+BG31,500085437.0,Severozapaden
+BG32,629679124.0,Severen tsentralen
+BG33,594782932.0,Severoiztochen
+BG34,762678987.0,Yugoiztochen
+BG41,837920916.0,Yugozapaden
+BG42,873931764.0,Yuzhen tsentralen
+CY00,286972183.0,Kýpros
+CZ01,9932427.0,Praha
+CZ02,791309302.0,Střední Čechy
+CZ03,893189858.0,Jihozápad
+CZ04,515011458.0,Severozápad
+CZ05,854132952.0,Severovýchod
+CZ06,1126585816.0,Jihovýchod
+CZ07,751893181.0,Střední Morava
+CZ08,555674460.0,Moravskoslezsko
+DE11,696891608.0,Stuttgart
+DE12,400454955.0,Karlsruhe
+DE13,430872886.0,Freiburg
+DE14,399439785.0,Tübingen
+DE21,974794162.0,Oberbayern
+DE22,422333449.0,Niederbayern
+DE23,316560877.0,Oberpfalz
+DE24,261361291.0,Oberfranken
+DE25,368544618.0,Mittelfranken
+DE26,297752757.0,Unterfranken
+DE27,509839897.0,Schwaben
+DE30,23026180.0,Berlin
+DE40,2695925806.0,Brandenburg
+DE50,6610648.0,Bremen
+DE60,24773016.0,Hamburg
+DE71,578642324.0,Darmstadt
+DE72,178933069.0,Gießen
+DE73,251313971.0,Kassel
+DE80,2204866040.0,Mecklenburg-Vorpommern
+DE91,282849185.0,Braunschweig
+DE92,392335987.0,Hannover
+DE93,1085404470.0,Lüneburg
+DE94,678681502.0,Weser-Ems
+DEA1,746549118.0,Düsseldorf
+DEA2,620295046.0,Köln
+DEA3,472725381.0,Münster
+DEA4,337977081.0,Detmold
+DEA5,493641954.0,Arnsberg
+DEB1,279327707.0,Koblenz
+DEB2,147997444.0,Trier
+DEB3,442528915.0,Rheinhessen-Pfalz
+DEC0,137202561.0,Saarland
+DED2,1068899005.0,Dresden
+DED4,1006371840.0,Chemnitz
+DED5,626613157.0,Leipzig
+DEE0,2339152855.0,Sachsen-Anhalt
+DEF0,640616176.0,Schleswig-Holstein
+DEG0,1908947619.0,Thüringen
+DK01,255795354.0,Hovedstaden
+DK02,192447278.0,Sjælland
+DK03,331866289.0,Syddanmark
+DK04,336990278.0,Midtjylland
+DK05,171161332.0,Nordjylland
+EE00,1557658218.0,Eesti
+EL11,333417795.0,"Anatoliki Makedonia,Thraki"
+EL12,1064584350.0,Kentriki Makedonia
+EL13,150978701.0,Dytiki Makedonia
+EL14,408039755.0,Thessalia
+EL21,189771801.0,Ipeiros
+EL22,121328605.0,Ionia Nisia
+EL23,384423955.0,Dytiki Ellada
+EL24,301460397.0,Sterea Ellada
+EL25,319884919.0,Peloponnisos
+EL30,182313804.0,Attiki
+EL41,329069726.0,Voreio Aigaio
+EL42,334786705.0,Notio Aigaio
+EL43,1174985949.0,Kriti
+EL51,1078346702.0,"Anatoliki Makedonia, Thraki"
+EL52,1240523887.0,Kentriki Makedonia
+EL53,343141486.0,Dytiki Makedonia
+EL54,423435775.0,Ipeiros
+EL61,988513510.0,Thessalia
+EL62,238830329.0,Ionia Nisia
+EL63,909364717.0,Dytiki Ellada
+EL64,599616093.0,Sterea Ellada
+EL65,1071501526.0,Peloponnisos
+ES11,3633024607.0,Galicia
+ES12,874198614.0,Principado de Asturias
+ES13,362891492.0,Cantabria
+ES21,232038874.0,País Vasco
+ES22,285920897.0,Comunidad Foral de Navarra
+ES23,190271789.0,La Rioja
+ES24,955840318.0,Aragón
+ES30,121788701.0,Comunidad de Madrid
+ES41,3041830434.0,Castilla y León
+ES42,2739300238.0,Castilla-La Mancha
+ES43,1762642960.0,Extremadura
+ES51,969727494.0,Cataluña
+ES52,1306026072.0,Comunidad Valenciana
+ES53,139387798.0,Illes Balears
+ES61,5841303713.0,Andalucía
+ES62,1128744809.0,Región de Murcia
+ES63,4759010.0,Ciudad Autónoma de Ceuta
+ES64,2876438.0,Ciudad Autónoma de Melilla
+ES70,671898222.0,Canarias
+FI19,1535574456.0,Länsi-Suomi
+FI1B,1224024684.0,Helsinki-Uusimaa
+FI1C,926319404.0,Etelä-Suomi
+FI1D,1839193751.0,Pohjois- ja Itä-Suomi
+FI20,61521616.0,Åland
+FR10,166957523.0,Île de France
+FR21,572290531.0,Champagne-Ardenne
+FR22,387021527.0,Picardie
+FR23,268797502.0,Haute-Normandie
+FR24,802343216.0,Centre
+FR25,736843725.0,Basse-Normandie
+FR26,1018948167.0,Bourgogne
+FR30,497131455.0,Nord - Pas-de-Calais
+FR41,617042386.0,Lorraine
+FR42,280590380.0,Alsace
+FR43,664256559.0,Franche-Comté
+FR51,1220768010.0,Pays de la Loire
+FR52,1156639840.0,Bretagne
+FR53,908365560.0,Poitou-Charentes
+FR61,1551906881.0,Aquitaine
+FR62,2365995695.0,Midi-Pyrénées
+FR63,956417384.0,Limousin
+FR71,1962139252.0,Rhône-Alpes
+FR72,1819846326.0,Auvergne
+FR81,1204762794.0,Languedoc-Roussillon
+FR82,1102055654.0,Provence-Alpes-Côte d'Azur
+FR83,282341065.0,Corse
+FR91,359972739.0,Guadeloupe
+FR92,286033462.0,Martinique
+FR93,187410509.0,Guyane
+FR94,877657953.0,Réunion
+HR02,303168616.0,
+HR03,394415275.0,Jadranska Hrvatska
+HR04,830231689.0,Kontinentalna Hrvatska
+HR05,229364042.0,
+HR06,235009727.0,
+HU10,1243888131.0,Közép-Magyarország
+HU21,838860883.0,Közép-Dunántúl
+HU22,816589215.0,Nyugat-Dunántúl
+HU23,847601488.0,Dél-Dunántúl
+HU31,759785378.0,Észak-Magyarország
+HU32,1257095943.0,Észak-Alföld
+HU33,1402563122.0,Dél-Alföld
+IE01,1958622412.0,"Border, Midland and Western"
+IE02,4347621279.0,Southern and Eastern
+ITC1,1088150757.0,Piemonte
+ITC2,84887956.0,Valle d'Aosta/Vallée d'Aoste
+ITC3,272147433.0,Liguria
+ITC4,1169591776.0,Lombardia
+ITF1,533938883.0,Abruzzo
+ITF2,370964500.0,Molise
+ITF3,2928156464.0,Campania
+ITF4,2811841735.0,Puglia
+ITF5,965851364.0,Basilicata
+ITF6,2204029521.0,Calabria
+ITG1,3531951817.0,Sicilia
+ITG2,1668178565.0,Sardegna
+ITH1,309054454.0,Provincia Autonoma di Bolzano/Bozen
+ITH2,228431592.0,Provincia Autonoma di Trento
+ITH3,1148751920.0,Veneto
+ITH4,316609549.0,Friuli-Venezia Giulia
+ITH5,1135516789.0,Emilia-Romagna
+ITI1,842052014.0,Toscana
+ITI2,652540837.0,Umbria
+ITI3,582512772.0,Marche
+ITI4,889248492.0,Lazio
+LT00,3373675843.0,Lietuva
+LU00,215428557.0,Luxembourg
+LV00,2255231825.0,Latvija
+MT00,155269520.0,Malta
+NL11,50974400.0,Groningen
+NL12,100748498.0,Friesland
+NL13,58887710.0,Drenthe
+NL21,109603407.0,Overijssel
+NL22,177630581.0,Gelderland
+NL23,69185130.0,Flevoland
+NL31,77214823.0,Utrecht
+NL32,183092497.0,Noord-Holland
+NL33,275165757.0,Zuid-Holland
+NL34,42397570.0,Zeeland
+NL41,212118802.0,Noord-Brabant
+NL42,102388769.0,Limburg
+PL11,1609939447.0,Łódzkie
+PL12,2769458817.0,Mazowieckie
+PL21,2294362804.0,Małopolskie
+PL22,1261208150.0,Śląskie
+PL31,2440978001.0,Lubelskie
+PL32,1675354349.0,Podkarpackie
+PL33,1379738661.0,Świętokrzyskie
+PL34,1008638088.0,Podlaskie
+PL41,1845434636.0,Wielkopolskie
+PL42,610313211.0,Zachodniopomorskie
+PL43,437574537.0,Lubuskie
+PL51,1008441163.0,Dolnośląskie
+PL52,547842036.0,Opolskie
+PL61,1227588511.0,Kujawsko-Pomorskie
+PL62,740809394.0,Warmińsko-Mazurskie
+PL63,865209592.0,Pomorskie
+PT11,4201980298.0,Norte
+PT15,445084632.0,Algarve
+PT16,4120720938.0,Centro
+PT17,1308518135.0,Lisboa
+PT18,1264394230.0,Alentejo
+PT20,551994628.0,Região Autónoma dos Açores
+PT30,373401458.0,Região Autónoma da Madeira
+RO11,1811299729.0,Nord-Vest
+RO12,1327873075.0,Centru
+RO21,3419868205.0,Nord-Est
+RO22,1852662249.0,Sud-Est
+RO31,2408474885.0,Sud - Muntenia
+RO32,937351589.0,Bucureşti - Ilfov
+RO41,1913762958.0,Sud-Vest Oltenia
+RO42,1062104431.0,Vest
+SE11,73284062.0,Stockholm
+SE12,717130143.0,Östra Mellansverige
+SE21,535202304.0,Småland med öarna
+SE22,756818308.0,Sydsverige
+SE23,830760362.0,Västsverige
+SE31,445106196.0,Norra Mellansverige
+SE32,286230849.0,Mellersta Norrland
+SE33,310955421.0,Övre Norrland
+SI01,415830207.0,Vzhodna Slovenija
+SI02,378008726.0,Zahodna Slovenija
+SI03,654820618.0,Zahodna Slovenija
+SI04,281093720.0,Zahodna Slovenija
+SK01,225763823.0,Bratislavský kraj
+SK02,1371525091.0,Západné Slovensko
+SK03,850968308.0,Stredné Slovensko
+SK04,939804226.0,Východné Slovensko
+UKC1,143339632.0,Tees Valley and Durham
+UKC2,187624311.0,Northumberland and Tyne and Wear
+UKD1,135790750.0,Cumbria
+UKD3,82023511.0,Greater Manchester
+UKD4,227277256.0,Lancashire
+UKD6,164066900.0,Cheshire
+UKD7,65792202.0,Merseyside
+UKE1,172884200.0,East Yorkshire and Northern Lincolnshire
+UKE2,232123905.0,North Yorkshire
+UKE3,191136749.0,South Yorkshire
+UKE4,258124812.0,West Yorkshire
+UKF1,366400120.0,Derbyshire and Nottinghamshire
+UKF2,243012363.0,"Leicestershire, Rutland and Northamptonshire"
+UKF3,238263623.0,Lincolnshire
+UKG1,272319831.0,"Herefordshire, Worcestershire and Warwickshire"
+UKG2,262486824.0,Shropshire and Staffordshire
+UKG3,49670973.0,West Midlands
+UKH1,557532376.0,East Anglia
+UKH2,245878985.0,Bedfordshire and Hertfordshire
+UKH3,260720832.0,Essex
+UKI1,57798842.0,Inner London
+UKI2,49819910.0,Outer London
+UKJ1,394995412.0,"Berkshire, Buckinghamshire and Oxfordshire"
+UKJ2,490512316.0,"Surrey, East and West Sussex"
+UKJ3,314462551.0,Hampshire and Isle of Wight
+UKJ4,285840286.0,Kent
+UKK1,373458500.0,"Gloucestershire, Wiltshire and Bristol/Bath area"
+UKK2,268116065.0,Dorset and Somerset
+UKK3,250813849.0,Cornwall and Isles of Scilly
+UKK4,342217503.0,Devon
+UKL1,650509418.0,West Wales and The Valleys
+UKL2,238246004.0,East Wales
+UKM2,358551252.0,Eastern Scotland
+UKM3,368836214.0,South Western Scotland
+UKM5,177911601.0,North Eastern Scotland
+UKM6,315303844.0,Highlands and Islands
+UKN0,774819590.0,Northern Ireland
