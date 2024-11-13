@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DespesApp - WebGazer</title>
+    <style>
+        #gazeDot {
+            position: absolute;
+            width: 10px;
+            height: 10px;
+            background-color: red;
+            border-radius: 50%;
+            pointer-events: none;
+            display: none;
+            z-index: 10;
+        }
+        
+        /* Hidden images initially */
+        .image-container {
+            display: none;
+            width: 80%;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Image Containers for Intro -->
+<div id="image1" class="image-container">
+    <img src="1.png" alt="Image 1" style="height: 100%;display: block; margin: auto;"/>
+</div>
+<div id="image2" class="image-container">
+    <img src="2.png" alt="Image 2" style="height: 100%;display: block; margin: auto;"/>
+</div>
+<div id="image3" class="image-container">
+    <img src="3.png" alt="Image 3" style="height: 100%;display: block; margin: auto;"/>
+</div>
+
+<!-- Red Dot for Gaze Tracking -->
+<div id="gazeDot"></div>
+
+<script src="webgazer.js"></script>
+
+<script>
+    window.onload = function() {
+        const gazeDot = document.getElementById('gazeDot');
+        const image1 = document.getElementById('image1');
+        const image2 = document.getElementById('image2');
+        const image3 = document.getElementById('image3');
+        
+        // Track the image sequence state
+        let currentImageIndex = 0;
+        const images = [image1, image2, image3];
+
+        // Function to show the next image in sequence
+        function showNextImage() {
+            if (currentImageIndex > 0) {
+                // Hide the previous image
+                images[currentImageIndex - 1].style.display = 'none';
+            }
+
+            if (currentImageIndex < images.length) {
+                // Show the next image
+                images[currentImageIndex].style.display = 'block';
+                currentImageIndex++;
+            }
+        }
+
+        // Keyboard event listener to move through images
+        window.addEventListener('keydown', function(event) {
+            // ArrowRight key (39) to show the next image
+            if (event.keyCode === 39) {
+                showNextImage();
+            }
+        });
+
+        // Initialize WebGazer
+        webgazer.begin().then(() => {
+            console.log("WebGazer started.");
+        }).catch((err) => {
+            console.error("Error starting WebGazer:", err);
+        });
+
+        // Listen for gaze data
+        webgazer.setGazeListener(function(data, elapsedTime) {
+            if (data == null) {
+                return;
+            }
+
+            const xprediction = data.x;
+            const yprediction = data.y;
+
+            // Update the gaze pointer
+            gazeDot.style.left = `${xprediction - 5}px`;
+            gazeDot.style.top = `${yprediction - 5}px`;
+            gazeDot.style.display = 'block';
+        });
+
+        // Set face detection and regression modules
+        webgazer.setTracker("TFFacemesh"); 
+        webgazer.setRegression("ridge");
+    };
+</script>
+
+</body>
+</html>
