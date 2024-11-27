@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saccade Model Validation</title>
+    <style>
+        #gazeDot {
+            position: absolute;
+            width: 10px;
+            height: 10px;
+            background-color: red;
+            border-radius: 50%;
+            pointer-events: none;
+            display: none;
+            z-index: 10;
+        }
+
+        #target {
+            position: absolute;
+            background-color: blue;
+            border-radius: 50%;
+        }
+
+        #calibrationMessage {
+            text-align: center;
+            font-size: 24px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Calibration Message -->
+<div id="calibrationMessage">Calibration Phase: Look around the screen to calibrate. Press the Right Arrow Key to Start Validation.</div>
+
+<!-- Red Dot for Gaze Tracking -->
+<div id="gazeDot"></div>
+
+<!-- Target for User -->
+<div id="target" style="display: none;"></div>
+
+<script src="webgazer.js"></script>
+
+<script>
+    window.onload = function () {
+        const gazeDot = document.getElementById('gazeDot');
+        const target = document.getElementById('target');
+        const calibrationMessage = document.getElementById('calibrationMessage');
+
+        // Array of target configurations (size and position)
+        const targetConfigs = [
+            { size: 50, x: 100, y: 100 },
+            { size: 30, x: 300, y: 150 },
+            { size: 70, x: 500, y: 200 },
+            { size: 40, x: 700, y: 300 },
+            { size: 60, x: 400, y: 400 }
+        ];
+
+        let currentTargetIndex = 0;
+        const gazeData = {}; // Object to store gaze data for each target
+        let validationPhase = false; // Flag to indicate if the validation phase has started
+
+        // Function to update the target's size and position
+        function updateTarget() {
+            if (currentTargetIndex >= targetConfigs.length) {
+                target.style.display = 'none';
+                console.log("Experiment complete. Downloading gaze data...");
+                downloadGazeData();
+                return;
+            }
+
+            const config = targetConfigs[currentTargetIndex];
+            target.style.width = `${config.size}px`;
+            target.style.height = `${config.size}px`;
+            target.style.left = `${config.x - config.size / 2}px`;
+            target.style.top = `${config.y - config.size / 2}px`;
+            target.style.display = 'block';
+
+            // Initialize an array to store gaze data for the current target
+            gazeData[`target_${currentTargetIndex}`] = {
+                targetDetails: config,
+                gazePoints: []
+            };
+
+            // Move to the next target after 3 seconds
+            setTimeout(() => {
+                currentTargetIndex++;
+                updateTarget();
+            }, 3000); // Show each target for 3 seconds
+        }
+
+        // Function to download gaze data as a JSON file
+        function downloadGazeData() {
+            const jsonData = JSON.stringify(gazeData, null, 2);
+            const blob = new Blob([jsonData], { type: "application/json" });
+            const url = URL.createObjectURL(blob);
+
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = "gaze_data.json";
+            a.click();
+            URL.revokeObjectURL(url);
+        }
+
+        // Initialize WebGazer
+        webgazer.begin().then(() => {
+            console.log("WebGazer started.");
+        }).catch((err) => {
+            console.error("Error starting WebGazer:", err);
+        });
+
+        // Listen for gaze data
+        webgazer.setGazeListener(function (data, elapsedTime) {
+            if (data == null) {
+                return;
+            }
+
+            const xprediction = data.x;
+            const yprediction = data.y;
+
+            // Update the gaze pointer
+            gazeDot.style.left = `${xprediction - 5}px`;
+            gazeDot.style.top = `${yprediction - 5}px`;
+            gazeDot.style.display = 'block';
+
+            // Record gaze data only during the validation phase
+            if (validationPhase && currentTargetIndex < targetConfigs.length) {
+                const currentTarget = gazeData[`target_${currentTargetIndex}`];
+                currentTarget.gazePoints.push({
+                    time: elapsedTime,
+                    gazeX: xprediction,
+                    gazeY: yprediction
+                });
+            }
+        });
+
+        // Set face detection and regression modules
+        webgazer.setTracker("TFFacemesh");
+        webgazer.setRegression("ridge");
+
+        // Start validation when the Right Arrow Key is pressed
+        window.addEventListener('keydown', function (event) {
+            if (event.keyCode === 39 && !validationPhase) { // Right Arrow Key
+                validationPhase = true;
+                calibrationMessage.style.display = 'none'; // Hide calibration message
+                updateTarget(); // Start showing targets
+            }
+        });
+    };
+</script>
+
+</body>
+</html>
