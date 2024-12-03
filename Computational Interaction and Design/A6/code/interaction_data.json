@@ -1,0 +1,57 @@
+[
+  {
+    "targetIndex": 0,
+    "targetDetails": {
+      "size": 50,
+      "x": 100,
+      "y": 100
+    },
+    "touchX": 108.66667175292969,
+    "touchY": 104,
+    "timestamp": 1733217967643
+  },
+  {
+    "targetIndex": 1,
+    "targetDetails": {
+      "size": 30,
+      "x": 300,
+      "y": 150
+    },
+    "touchX": 302,
+    "touchY": 157.33334350585938,
+    "timestamp": 1733217969927
+  },
+  {
+    "targetIndex": 2,
+    "targetDetails": {
+      "size": 70,
+      "x": 500,
+      "y": 200
+    },
+    "touchX": 520,
+    "touchY": 210,
+    "timestamp": 1733217971183
+  },
+  {
+    "targetIndex": 3,
+    "targetDetails": {
+      "size": 40,
+      "x": 700,
+      "y": 300
+    },
+    "touchX": 706.6666870117188,
+    "touchY": 289.3333435058594,
+    "timestamp": 1733217972334
+  },
+  {
+    "targetIndex": 4,
+    "targetDetails": {
+      "size": 60,
+      "x": 400,
+      "y": 400
+    },
+    "touchX": 420,
+    "touchY": 372.66668701171875,
+    "timestamp": 1733217973299
+  }
+]

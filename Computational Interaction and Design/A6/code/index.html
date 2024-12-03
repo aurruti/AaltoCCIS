@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movement Performance Experiment</title>
+    <style>
+        #target {
+            position: absolute;
+            background-color: blue;
+            border-radius: 50%;
+        }
+        body {
+            margin: 0;
+            overflow: hidden;
+            touch-action: none;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Target Element -->
+<div id="target"></div>
+
+<script>
+    // Array of target configurations (size and position)
+    const targetConfigs = [
+        { size: 50, x: 100, y: 100 },
+        { size: 30, x: 300, y: 150 },
+        { size: 70, x: 500, y: 200 },
+        { size: 40, x: 700, y: 300 },
+        { size: 60, x: 400, y: 400 }
+    ];
+
+    let currentTargetIndex = 0;
+    const interactionData = []; // Array to store touch interaction data
+    const target = document.getElementById('target');
+
+    // Function to update the target's size and position
+    function updateTarget() {
+        if (currentTargetIndex >= targetConfigs.length) {
+            target.style.display = 'none';
+            console.log("Experiment complete. Downloading interaction data...");
+            downloadInteractionData();
+            return;
+        }
+
+        const config = targetConfigs[currentTargetIndex];
+        target.style.width = `${config.size}px`;
+        target.style.height = `${config.size}px`;
+        target.style.left = `${config.x - config.size / 2}px`;
+        target.style.top = `${config.y - config.size / 2}px`;
+        target.style.display = 'block';
+    }
+
+    // Function to download interaction data as a JSON file
+    function downloadInteractionData() {
+        const jsonData = JSON.stringify(interactionData, null, 2);
+        const blob = new Blob([jsonData], { type: "application/json" });
+        const url = URL.createObjectURL(blob);
+
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = "interaction_data.json";
+        a.click();
+        URL.revokeObjectURL(url);
+    }
+
+    // Event listener for touch interactions
+    document.addEventListener('touchstart', function (event) {
+        const touch = event.touches[0];
+        const touchX = touch.clientX;
+        const touchY = touch.clientY;
+        const time = Date.now();
+
+        // Check if the touch is within the target bounds
+        const targetRect = target.getBoundingClientRect();
+        if (
+            touchX >= targetRect.left &&
+            touchX <= targetRect.right &&
+            touchY >= targetRect.top &&
+            touchY <= targetRect.bottom
+        ) {
+            interactionData.push({
+                targetIndex: currentTargetIndex,
+                targetDetails: targetConfigs[currentTargetIndex],
+                touchX,
+                touchY,
+                timestamp: time
+            });
+
+            // Move to the next target
+            currentTargetIndex++;
+            updateTarget();
+        }
+    });
+
+    // Initialize the experiment
+    updateTarget();
+</script>
+
+</body>
+</html>
